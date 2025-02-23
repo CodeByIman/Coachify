@@ -1,2 +1,2 @@
 # Coachify
-<<<<<<< HEAD
+
